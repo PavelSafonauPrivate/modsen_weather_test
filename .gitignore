@@ -1,5 +1,21 @@
 
+.DS_Store
 xcuserdata/
 *.xcuserstate
 *.xcscmblueprint
 *.xccheckout
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+*.dSYM
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+cpp_bridge/build/
+cpp_bridge/build-ios/*
+!cpp_bridge/build-ios/Debug-iphoneos/
+!cpp_bridge/build-ios/Debug-iphoneos/libcpp_bridge.a
+!cpp_bridge/build-ios/Debug-iphonesimulator/
+!cpp_bridge/build-ios/Debug-iphonesimulator/libcpp_bridge.a
